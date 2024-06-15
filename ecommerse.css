@@ -12,4 +12,17 @@
   }
   *{
     background-color: aqua;
-    }
+  }
+
+  nav{
+    background-color: brown;
+    
+
+  }
+  body{
+    background-color: #a5582a38 ;
+    color:brown ;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
